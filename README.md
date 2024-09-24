@@ -18,7 +18,7 @@
 💬 **Social Media:**
 
 - Instagram: [@arianna__.96](https://twitter.com/levxyca)
-🌐 **GitHub:** [GitHub Profile](https://github.com/arianna.dalessandro)
+- 🌐 **GitHub:** [GitHub Profile](https://github.com/arianna.dalessandro)
 - Discord: arianna.dalessandro
 - LinkedIn: [Arianna D'Alessandro](https://linkedin.com/in/ariannadalessandro)
 
