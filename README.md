@@ -50,6 +50,11 @@ Giovane donna e Madre di una splendida creatura di 3 anni.
 ### I.T.I.S. Giovanni XXIII
 **Diploma in perito tecnico chimico di laboratorio** | as 2015-2016
 
+## Formazione
+- Corso di Primo soccorso 2013 (aggiornamento 2015) e Primo soccorso nelle ambulanze 2018, Rianimazione cardiopolmonare 2016.
+- Corso base di cyber security 2024
+- Consulente HACCP 2018 e Formatore HACCP 2019
+
 ---
 ## Competenze
 - Conoscenza lingua inglese: C1
