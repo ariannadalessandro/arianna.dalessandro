@@ -87,6 +87,6 @@ Ho avuto la fortuna di lavorare e allo stesso tempo studiare e ciò mi ha permes
 Con un po' di presunzione riconosco il mio valore come risorsa.
 Ho ottime capacità comunicative, mi piace lavorare in team, confrontarmi e mettermi in discussione ma sono altresì determinata a far valere la mia opinione laddove so che è giusto farlo.
 ```
-##I Miei Progetti
+###I Miei Progetti
 
-##Link
+###Link
