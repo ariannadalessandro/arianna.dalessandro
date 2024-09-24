@@ -50,7 +50,7 @@ Giovane donna e Madre di una splendida creatura di 3 anni.
 ### I.T.I.S. Giovanni XXIII
 **Diploma in perito tecnico chimico di laboratorio** | as 2015-2016
 
-
+---
 ## Competenze
 - Programmazione: Python, Java, JavaScript
 - Database: MySQL, PostgreSQL
