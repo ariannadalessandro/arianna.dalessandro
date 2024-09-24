@@ -50,13 +50,13 @@
 
 ## Istruzione
 ### Università di Roma Tor Vergata
-** 🎓Laureanda in Biologia Ecologia Evoluzione Antropologia Applicata** | in corso
+🎓 **Laureanda in Biologia Ecologia Evoluzione Antropologia Applicata** | in corso
 
 ### Università di Roma Tor Vergata
-** 🎓Laurea in Scienze Biologiche** | aa 2020- 2021
+🎓**Laurea in Scienze Biologiche** | aa 2020- 2021
 
 ### I.T.I.S. Giovanni XXIII
-** 📚Diploma in perito tecnico chimico di laboratorio** | as 2015-2016
+📚**Diploma in perito tecnico chimico di laboratorio** | as 2015-2016
 
 ## Formazione
 - 🚑 Corso di Primo soccorso 2013 (aggiornamento 2015) e Primo soccorso nelle ambulanze 2018, Rianimazione cardiopolmonare 2016
