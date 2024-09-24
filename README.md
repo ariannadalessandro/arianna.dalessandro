@@ -10,8 +10,6 @@
 
 🕒 **06:44 CEST**
 
- **Email:** [oilevxyca@gmail.com](mailto:oilevxyca@gmail.com)
-
 ---
 ## Informazioni di Contatto
 📧 **Email:** arianna.dalessandro96@gmail.com
