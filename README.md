@@ -19,7 +19,7 @@
 - Responsabile di sala, Vicedirettrice per la mise en place, Gestione di ordini e contabilità
 - Competenze utilizzate: capacità di organizzare il lavoro in modo autonomo, problem solving
 
-- ### Azienda CAMOMILLA Italia
+### Azienda CAMOMILLA Italia
 **Operatrice commerciale** | marzo 2015 - giugno 2017
 - Responsabile vendite al dettaglio
 - Competenze utilizzate: HTML, CSS, JavaScript
