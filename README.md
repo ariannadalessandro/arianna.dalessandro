@@ -14,13 +14,11 @@
 ## Informazioni di Contatto
 📧 **Email:** arianna.dalessandro96@gmail.com
 🔗 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/arianna)
-🌐 **GitHub:** [GitHub Profile](https://github.com/arianna.dalessandro)
-
 ---
 💬 **Social Media:**
 
 - Instagram: [@arianna__.96](https://twitter.com/levxyca)
-- GitHub: [arianna.dalessandro](https://github.com/arianna.dalessandro)
+🌐 **GitHub:** [GitHub Profile](https://github.com/arianna.dalessandro)
 - Discord: arianna.dalessandro
 - LinkedIn: [Arianna D'Alessandro](https://linkedin.com/in/ariannadalessandro)
 
