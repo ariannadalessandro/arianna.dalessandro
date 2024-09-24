@@ -54,15 +54,17 @@ Giovane donna e Madre di una splendida creatura di 3 anni.
 - Corso di Primo soccorso 2013 (aggiornamento 2015) e Primo soccorso nelle ambulanze 2018, Rianimazione cardiopolmonare 2016.
 - Corso base di cyber security 2024
 - Consulente HACCP 2018 e Formatore HACCP 2019
+- Rilievi tecnici sulla scena del crimine - presso Legal Genetics
+- Corso di Criminologia - presso Igea Corsi e Legal Genetics
+- Tutor Scolastico, Oepa per BES  - presso Igea Corsi
 
 ---
 ## Competenze
 - Conoscenza lingua inglese: C1
 - Conoscenza pacchettto Microsoft Office: Buona
 - Conoscenza Sistemi operativi (Linux): Buona
-- Programmazione in R
 - Competenze base di HTML e CSS
-- Conoscenza del linguaggio di Programmazione: R in R-studio
+- Conoscenza del linguaggio di Programmazione: R in R-studio e Linux.
 - Programmazione: 
 - Database:
 ---
