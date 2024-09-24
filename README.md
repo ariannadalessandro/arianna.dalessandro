@@ -1,5 +1,8 @@
 # Arianna D'Alessandro
 
+![Documento x cv](https://github.com/user-attachments/assets/70a8e1aa-c8ea-44c8-9f95-f9cd9967950e)
+
+
 ## Informazioni di Contatto
 - **Email:** arianna.dalessandro96@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/arianna)
